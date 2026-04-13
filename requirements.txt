@@ -1,0 +1,10 @@
+# Student Performance Tracker — Python Dependencies
+# These are the packages Streamlit Cloud will install automatically
+# when you deploy your app from GitHub.
+#
+# HOW TO USE LOCALLY (on Android with Termux or on PC):
+#   pip install -r requirements.txt
+
+streamlit>=1.32.0
+pandas>=2.0.0
+plotly>=5.18.0
