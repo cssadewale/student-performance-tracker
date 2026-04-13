@@ -1,0 +1,61 @@
+student_name,student_class,subject,score,total,date,topic,q1,q2,q3,q4,q5,q6,q7,q8,q9,q10
+Amara Okonkwo,SS1A,Mathematics,7,10,15/01/2025,Quadratic Equations,1,1,0,1,1,1,0,1,1,0
+Tunde Adeyemi,SS1A,Mathematics,4,10,15/01/2025,Quadratic Equations,1,0,0,1,0,1,0,1,0,0
+Chisom Eze,SS1A,Mathematics,9,10,15/01/2025,Quadratic Equations,1,1,1,1,1,1,0,1,1,1
+Fatima Bello,SS1A,Mathematics,3,10,15/01/2025,Quadratic Equations,0,0,0,1,1,0,0,1,0,0
+Emeka Nwosu,SS1A,Mathematics,6,10,15/01/2025,Quadratic Equations,1,1,0,1,0,1,0,1,1,0
+Kemi Oladele,SS1A,Mathematics,5,10,15/01/2025,Quadratic Equations,1,0,0,1,1,1,0,0,1,0
+Seun Fashola,SS1A,Mathematics,4,10,15/01/2025,Quadratic Equations,0,1,0,1,0,1,0,0,1,0
+Ngozi Obi,SS1A,Mathematics,8,10,15/01/2025,Quadratic Equations,1,1,1,1,1,0,0,1,1,1
+Dami Afolabi,SS1A,Mathematics,2,10,15/01/2025,Quadratic Equations,0,0,0,1,0,0,0,1,0,0
+Tobi Martins,SS1A,Mathematics,9,10,15/01/2025,Quadratic Equations,1,1,1,1,1,1,0,1,1,1
+Amara Okonkwo,SS1A,Physics,7,10,22/01/2025,Newton's Laws,1,1,0,1,1,0,1,1,1,0
+Tunde Adeyemi,SS1A,Physics,5,10,22/01/2025,Newton's Laws,1,0,1,1,0,0,1,1,0,0
+Chisom Eze,SS1A,Physics,8,10,22/01/2025,Newton's Laws,1,1,1,1,1,0,1,0,1,1
+Fatima Bello,SS1A,Physics,3,10,22/01/2025,Newton's Laws,0,0,1,1,0,0,0,1,0,0
+Emeka Nwosu,SS1A,Physics,6,10,22/01/2025,Newton's Laws,1,1,0,1,1,0,1,0,1,0
+Kemi Oladele,SS1A,Physics,5,10,22/01/2025,Newton's Laws,1,0,0,1,1,0,1,0,1,0
+Seun Fashola,SS1A,Physics,3,10,22/01/2025,Newton's Laws,0,0,1,1,0,0,0,1,0,0
+Ngozi Obi,SS1A,Physics,8,10,22/01/2025,Newton's Laws,1,1,1,1,1,0,1,0,1,1
+Dami Afolabi,SS1A,Physics,2,10,22/01/2025,Newton's Laws,0,0,0,1,0,0,0,1,0,0
+Tobi Martins,SS1A,Physics,9,10,22/01/2025,Newton's Laws,1,1,1,1,1,1,1,0,1,1
+Amara Okonkwo,SS1A,Chemistry,6,10,29/01/2025,Chemical Bonding,1,1,0,0,1,1,0,1,1,0
+Tunde Adeyemi,SS1A,Chemistry,4,10,29/01/2025,Chemical Bonding,1,0,0,0,1,1,0,1,0,0
+Chisom Eze,SS1A,Chemistry,8,10,29/01/2025,Chemical Bonding,1,1,0,1,1,1,1,1,1,0
+Fatima Bello,SS1A,Chemistry,3,10,29/01/2025,Chemical Bonding,0,0,0,0,1,1,0,1,0,0
+Emeka Nwosu,SS1A,Chemistry,7,10,29/01/2025,Chemical Bonding,1,1,0,1,1,1,0,1,1,0
+Kemi Oladele,SS1A,Chemistry,5,10,29/01/2025,Chemical Bonding,1,0,0,1,1,1,0,0,1,0
+Seun Fashola,SS1A,Chemistry,3,10,29/01/2025,Chemical Bonding,0,0,0,0,1,1,0,1,0,0
+Ngozi Obi,SS1A,Chemistry,8,10,29/01/2025,Chemical Bonding,1,1,0,1,1,1,1,1,1,0
+Dami Afolabi,SS1A,Chemistry,2,10,29/01/2025,Chemical Bonding,0,0,0,0,1,0,0,1,0,0
+Tobi Martins,SS1A,Chemistry,9,10,29/01/2025,Chemical Bonding,1,1,1,1,1,1,1,1,1,0
+Amara Okonkwo,SS1A,Mathematics,8,10,05/02/2025,Indices & Logarithms,1,1,1,1,1,0,1,1,1,0
+Tunde Adeyemi,SS1A,Mathematics,5,10,05/02/2025,Indices & Logarithms,1,0,1,1,0,0,1,1,0,0
+Chisom Eze,SS1A,Mathematics,9,10,05/02/2025,Indices & Logarithms,1,1,1,1,1,1,1,1,1,0
+Fatima Bello,SS1A,Mathematics,3,10,05/02/2025,Indices & Logarithms,0,0,1,1,0,0,0,1,0,0
+Emeka Nwosu,SS1A,Mathematics,7,10,05/02/2025,Indices & Logarithms,1,1,0,1,1,0,1,1,1,0
+Kemi Oladele,SS1A,Mathematics,6,10,05/02/2025,Indices & Logarithms,1,1,0,1,1,0,1,0,1,0
+Seun Fashola,SS1A,Mathematics,4,10,05/02/2025,Indices & Logarithms,0,0,1,1,0,0,1,1,0,0
+Ngozi Obi,SS1A,Mathematics,9,10,05/02/2025,Indices & Logarithms,1,1,1,1,1,0,1,1,1,1
+Dami Afolabi,SS1A,Mathematics,2,10,05/02/2025,Indices & Logarithms,0,0,0,1,0,0,0,1,0,0
+Tobi Martins,SS1A,Mathematics,10,10,05/02/2025,Indices & Logarithms,1,1,1,1,1,1,1,1,1,1
+Amara Okonkwo,SS1A,Physics,7,10,12/02/2025,Waves & Sound,1,1,0,1,1,1,0,1,1,0
+Tunde Adeyemi,SS1A,Physics,5,10,12/02/2025,Waves & Sound,1,0,0,1,1,1,0,0,1,0
+Chisom Eze,SS1A,Physics,8,10,12/02/2025,Waves & Sound,1,1,1,1,1,1,0,0,1,1
+Fatima Bello,SS1A,Physics,4,10,12/02/2025,Waves & Sound,0,0,0,1,1,1,0,0,1,0
+Emeka Nwosu,SS1A,Physics,7,10,12/02/2025,Waves & Sound,1,1,0,1,1,1,0,1,1,0
+Kemi Oladele,SS1A,Physics,5,10,12/02/2025,Waves & Sound,1,0,0,1,1,1,0,0,1,0
+Seun Fashola,SS1A,Physics,4,10,12/02/2025,Waves & Sound,0,0,0,1,1,1,0,0,1,0
+Ngozi Obi,SS1A,Physics,9,10,12/02/2025,Waves & Sound,1,1,1,1,1,1,0,1,1,1
+Dami Afolabi,SS1A,Physics,2,10,12/02/2025,Waves & Sound,0,0,0,1,0,1,0,0,0,0
+Tobi Martins,SS1A,Physics,9,10,12/02/2025,Waves & Sound,1,1,1,1,1,1,0,1,1,1
+Amara Okonkwo,SS1A,Chemistry,6,10,19/02/2025,Acids & Bases,1,1,0,1,0,1,0,1,1,0
+Tunde Adeyemi,SS1A,Chemistry,5,10,19/02/2025,Acids & Bases,1,0,1,1,0,1,0,1,0,0
+Chisom Eze,SS1A,Chemistry,8,10,19/02/2025,Acids & Bases,1,1,1,1,0,1,0,1,1,1
+Fatima Bello,SS1A,Chemistry,3,10,19/02/2025,Acids & Bases,0,0,1,1,0,1,0,0,0,0
+Emeka Nwosu,SS1A,Chemistry,7,10,19/02/2025,Acids & Bases,1,1,0,1,1,1,0,1,1,0
+Kemi Oladele,SS1A,Chemistry,6,10,19/02/2025,Acids & Bases,1,0,1,1,0,1,0,1,1,0
+Seun Fashola,SS1A,Chemistry,4,10,19/02/2025,Acids & Bases,0,0,1,1,0,1,0,0,1,0
+Ngozi Obi,SS1A,Chemistry,9,10,19/02/2025,Acids & Bases,1,1,1,1,0,1,0,1,1,1
+Dami Afolabi,SS1A,Chemistry,2,10,19/02/2025,Acids & Bases,0,0,0,1,0,0,0,0,1,0
+Tobi Martins,SS1A,Chemistry,9,10,19/02/2025,Acids & Bases,1,1,1,1,0,1,0,1,1,1
